@@ -1,11 +1,11 @@
-# talks
-A repo of talks I've given
+# Talks
+A repo of talks I've given.
 
 ## Learn to Hack!
 
 #### CCSS WoA Tech Talk
 
-[Youtube Link](https://www.youtube.com/watch?v=GEOkrb5S7W0) |
+[Youtube](https://www.youtube.com/watch?v=GEOkrb5S7W0) |
 [Slides](https://github.com/AngelOnFira/talks/blob/master/learn-to-hack.pdf)
 
 [![learn to hack](images/learn-to-hack.png)](https://github.com/AngelOnFira/talks/blob/master/learn-to-hack.pdf)
@@ -14,7 +14,7 @@ A repo of talks I've given
 
 #### CUSEC 2020
 
-[Youtube Link](https://www.youtube.com/watch?v=aS26sqT09Pw) |
+[Youtube](https://www.youtube.com/watch?v=aS26sqT09Pw) |
 [Slides](https://github.com/AngelOnFira/talks/blob/master/cultivating-healthy-open-source.pdf)
 
 [![healthy open source](images/healthy-open-source.png)](https://github.com/AngelOnFira/talks/blob/master/cultivating-healthy-open-source.pdf)
